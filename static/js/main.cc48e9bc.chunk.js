@@ -1,2 +1,0 @@
-(this["webpackJsonponline-grocer"]=this["webpackJsonponline-grocer"]||[]).push([[0],{9:function(e,n,r){"use strict";r.r(n);var t=r(1),c=r.n(t),o=r(3),i=r.n(o),s=r(0);var d=function(){return Object(s.jsx)("div",{children:Object(s.jsx)("h1",{children:"Hello world!"})})};i.a.render(Object(s.jsx)(c.a.StrictMode,{children:Object(s.jsx)(d,{})}),document.getElementById("root"))}},[[9,1,2]]]);
-//# sourceMappingURL=main.cc48e9bc.chunk.js.map
