@@ -15,15 +15,6 @@ function NavbarLight() {
                     <div class="navbar-nav mr-auto mt-5 mt-lg-2 margin-auto top-categories-search-main">
                         <div class="top-categories-search">
                             <div class="input-group">
-                                <span class="input-group-btn categories-dropdown">
-                                    <select class="form-control-select">
-                                        <option selected="selected">Your City</option>
-                                        <option value="0">New Delhi</option>
-                                        <option value="2">Bengaluru</option>
-                                        <option value="3">Hyderabad</option>
-                                        <option value="4">Kolkata</option>
-                                    </select>
-                                </span>
                                 <input class="form-control" placeholder="Search products in Your City"
                                     aria-label="Search products in Your City" type="text" />
                                 <span class="input-group-btn">
@@ -37,7 +28,8 @@ function NavbarLight() {
                     <div class="my-2 my-lg-0">
                         <ul class="list-inline main-nav-right">
                             <li class="list-inline-item cart-btn">
-                                <a href="#" data-toggle="offcanvas" class="btn btn-link border-none"><i class="mdi mdi-cart"></i>
+                                <a href="#" data-toggle="offcanvas" class="btn btn-link border-none">
+                                    <i class="mdi mdi-cart"></i>
                                     My Cart <small class="cart-value">5</small></a>
                             </li>
                         </ul>
